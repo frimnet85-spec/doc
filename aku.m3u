@@ -91,7 +91,7 @@ https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/d
 ---
 
 
-#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 CBM
+EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 CBM
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/trs7.m3u8
 #http://baka.semar.my.id:8000/play/a05f/index.m3u8
 #http://103.148.44.38:8000/play/a05f/index.m3u8
@@ -135,7 +135,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17
 https://midcache-nt.rctiplus.id/hdlive2/afc17_720p/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/06O-m.png" group-title="1. INDONESIA", METRO TV D
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/06O-m.png" group-title="1. INDONESIA", METRO TV D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/metro.m3u8
 
@@ -609,14 +609,14 @@ https://gooo.blog/opix/genx.m3u8?id=tvone&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1N
 
 
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Indosiar D
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Indosiar D
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/indos.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", KOMPAS TV D
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", KOMPAS TV D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/kompas.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -999,7 +999,7 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/m
 #KODIPROP:inputstream.adaptive.license_key=https://nissa07.adptv.workers.dev/18280.drm
 https://nissa07.adptv.workers.dev/18280.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/bsatu.m3u8
 #https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=18280
 
@@ -1113,9 +1113,6 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Kalimantan Selatan 🇮🇩
-https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tvrikal.m3u8
-#https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
------
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Kalimantan Tengah 🇮🇩
@@ -1155,7 +1152,7 @@ https://tvratu.my.id/oxygen/index.m3u8?id=nettv-hd
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
 
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png", TVONE HD 
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png", TVONE HD 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tvone.m3u8
@@ -2368,20 +2365,20 @@ https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA:PIALA DUNIA",SPORT TV 1
+EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA:PIALA DUNIA",SPORT TV 1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/spttv1.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA",SPORT TV 2
+EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA",SPORT TV 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/spttv2.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA",SPORT TV 3
+EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA",SPORT TV 3
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/spttv3.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA",SPORT TV 4
+EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA",SPORT TV 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/spttv4.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA:PIALA DUNIA",SPORT TV 5
+EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS;LIGA ITALIA:PIALA DUNIA",SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/spttv5.m3u8
 
 
@@ -3050,19 +3047,19 @@ https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 1 HD
+EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 1 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp1.m3u8
 
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 2 HD
+EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 2 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp2.m3u8
 
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 3 HD
+EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 3 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp3.m3u8
 
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 4 HD
+EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 4 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp4.m3u8
 
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 5 HD
+EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 5 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp5.m3u8
 
 
@@ -3180,7 +3177,7 @@ https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/271.jpeg", World Cup
+EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/271.jpeg", World Cup
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/wcon.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.comw.png" group-title="PIALA DUNIA", WORLD CUP AR 1
@@ -3518,10 +3515,10 @@ EXTINF:-1 tvg-logo="https://i.im/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA",
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 UHD
+EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 UHD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 HD
+EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 #https://cp11.adabmedia.com/hls2/rasf1.m3u8
 
