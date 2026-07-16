@@ -92,13 +92,7 @@ https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/d
 
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 CBM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=259cc2192e3a353a834ba45bea12fe0d:c021d154e1ca400b33e3b986ac1678fe
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/newmpd/Trans7HD.mpd
-
+https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-id="807.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" tvg-name="Indosiar" group-title="1. INDONESIA", Indosiar CBM
