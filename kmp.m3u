@@ -1,9 +1,0 @@
-#EXTINF:-1 tvg-id="15" tvg-logo="https://www.visionplus.id/images/repository/3png" group-title="VISION+",komp
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/drm.license
-https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/index.mpd
-
