@@ -3100,11 +3100,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 
 -----
 
-EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="SPORTS;PIALA DUNIA", TSN 2 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="SPORTS;PIALA DUNIA", TSN 2 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="SPORTS;PIALA DUNIA", TSN 3 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
