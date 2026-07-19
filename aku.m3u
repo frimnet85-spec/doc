@@ -2990,7 +2990,7 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/makkan/live.livx?
 EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/271.jpeg", SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/sporttv5.m3u8
 
-#EXTINF:-1 tvg-logo="https:/w.png" group-title="PIALA DUNIA", TVRI SPORT On
+EXTINF:-1 tvg-logo="https:/w.png" group-title="PIALA DUNIA", TVRI SPORT On
 https://pildun.cob.web.id/hls3/index.m3u8
 
 EXTINF:-1 tvg-logo="https:/w.png" group-title="PIALA DUNIA", FOX 4K
