@@ -20,10 +20,6 @@ https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",MDTV (DNS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",NUSANTARA TV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
