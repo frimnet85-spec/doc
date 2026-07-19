@@ -1,42 +1,42 @@
 #EXTM3U billed-msg="JANGAN LUPA RELOAD/MUAT ULANG PEMBERI/PENYEDIA SETIAP MEMBUKA OTT, SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",METRO TV (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",METRO TV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",KOMPAS TV (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",KOMPAS TV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",BERITA SATU (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",BERITA SATU (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",BTV (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",BTV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",MDTV (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",MDTV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",MDTV (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",MDTV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",NUSANTARA TV (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",NUSANTARA TV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",RTV (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",RTV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",MAGNA (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",MAGNA (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA TV",TVONE (DNS)
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="1. INDONESIA",TVONE (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
