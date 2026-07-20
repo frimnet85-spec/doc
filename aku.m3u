@@ -44,7 +44,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
 https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/VFJBTlM3LW15/manifest.mpd?signature=ZDE1M2VhZmRmNzA2NDg0YmNjMTg4ZjQ4NTM1MDg4YjA
 
-
+#EXTINF:-1 tvg-id="Lokal" group-title="1. INDONESIA" tvg-logo="https:aksefL7JPDf95VA1JZ3o7Y9LVIIZqrcn0o/s720/teveMobile.png" ,TRANS TV CB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/VHJhbnNUVg/manifest.mpd?signature=NjUwMjJhZDMzZmUxZDkzZjkzNTExMzQ2ODEyYWQ2YzY=&time=15227456044
 
 
 #EXTINF:-1 group-title="MotoGP", MotoGP 2
