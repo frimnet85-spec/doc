@@ -1605,23 +1605,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1. INDONESIA",RCTI (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1. INDONESIA;TIMNAS",RCTI (R+)
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="1. INDONESIA",GTV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="1. INDONESIA;TIMNAS",GTV (R+)
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-log="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1. INDONESIA",MNCTV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1. INDONESIA;BUNDESLIGA",INEWS (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1. INDONESIA;BUNDESLIGA;TIMNAS",INEWS (R+)
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png" group-title="SPORTS", WWE NETWORK 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
