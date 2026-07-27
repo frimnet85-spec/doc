@@ -80,14 +80,14 @@ https://tvratu.my.id/oxygen/index.m3u8?id=kompastv
 http://157.15.187.3:25092/hls/42/42.m3u8
 
 
-#EXTINF:-1 group-title="TIMNAS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBs6JlGA&s", LIVE ONLY 1
+EXTINF:-1 group-title="TIMNAS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBs6JlGA&s", LIVE ONLY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21633&type=drm
 https://tvratu.my.id/vid/index.mpd?id=21633&type=dash
 
-#EXTINF:-1 group-title="TIMNAS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBlus6JlGA&s", LIVE ONLY 2
+EXTINF:-1 group-title="TIMNAS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBlus6JlGA&s", LIVE ONLY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
