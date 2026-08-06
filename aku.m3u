@@ -963,7 +963,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV.
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.biz.id/vis/stream.php?id=10&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=10.play
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
