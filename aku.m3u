@@ -5,7 +5,9 @@ https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
 https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="1. INDONESIA", INDOSIAR Vi
-https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786429425&s=2e066c5cb228e543116ea76b4f0e1233afe990cb3f290faf51b7cc490c45f3b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786429425&s=b4a4fd2e48410c5c619b8179e74e8b279e136ad404676bec6ff456234f2ae3ba
 
 #EXTINF:-1 group-title="VDIO SPORTS;Sea V Cup"  tvg-logo="htAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/imaged406.jpg", Sea V Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
