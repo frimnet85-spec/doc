@@ -5,6 +5,12 @@
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
 https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://st-Logo.png" group-title="LIGA INGGRIS",Astro PL 1
+https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/ast1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://st-Logo.png" group-title="LIGA INGGRIS",Astro PL 2
+https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/ast2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="LIGA INGGRIS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
