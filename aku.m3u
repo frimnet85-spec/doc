@@ -2492,7 +2492,7 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
  
 
 
-#EXTINF:-1 tvg-id="Champi TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/lDG2eMRN3lL5ru9uzobxTm8CAVk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/17884/formula-1-cover-8872fd.jpg" group-title="VDIO SPORTS;LIGA CHAMPIONS",BEIN 1 b
+EXTINF:-1 tvg-id="Champi TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/lDG2eMRN3lL5ru9uzobxTm8CAVk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/17884/formula-1-cover-8872fd.jpg" group-title="VDIO SPORTS;LIGA CHAMPIONS",BEIN 1 b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2507,7 +2507,7 @@ https://aspaltvpasti.top/Allinone/17884.mpd
 #https://aspaltvpasti.top/11111/17884.mpd
 
  
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBlOxGf9gSU7NBEB3us6JlGA&s", BEIN 1
+EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBlOxGf9gSU7NBEB3us6JlGA&s", BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2519,7 +2519,7 @@ https://aspaltvpasti.top/Allinone/6299.mpd
 #https://pipit.barjagaul.workers.dev/play.mpd?id=6299&type=dash
 
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobdTTTy3YyU0Qxd3qnDYCNyRDVjFPSGjReg&s", Bein 2
+EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobdTTTy3YyU0Qxd3qnDYCNyRDVjFPSGjReg&s", Bein 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2530,7 +2530,7 @@ https://aspaltvpasti.top/Allinone/17875.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17875&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1641867970_logo-bein-sports-3.png", Bein 3
+EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1641867970_logo-bein-sports-3.png", Bein 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2542,7 +2542,7 @@ https://aspaltvpasti.top/Allinone/6317.mpd
 #https://pipit.barjagaul.workers.dev/play.mpd?id=6317&type=dash
 
  
-#EXTINF:-1 group-title="VDIO SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5-lNyEEkkfsNYzGuO8j5FhE8Cp0YYj92ftATGPPpGkPaS8yE_UPKmLA&s=10", Spotv V
+EXTINF:-1 group-title="VDIO SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5-lNyEEkkfsNYzGuO8j5FhE8Cp0YYj92ftATGPPpGkPaS8yE_UPKmLA&s=10", Spotv V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2558,7 +2558,7 @@ https://aspaltvpasti.top/Allinone/17139.mpd
 #https://aspaltvpasti.top/11111/17139.mpd
 
 
-#EXTINF:-1 group-title="VDIO SPORTS;MotoGP"  tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", Spotv 2 V
+EXTINF:-1 group-title="VDIO SPORTS;MotoGP"  tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", Spotv 2 V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2574,7 +2574,7 @@ https://aspaltvpasti.top/Allinone/17140.mpd
 #https://aspaltvpasti.top/11111/17140.mpd
 
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA;LIGA BELANDA;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1
+EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA;LIGA BELANDA;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2589,7 +2589,7 @@ https://aspaltvpasti.top/Allinone/17938.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17938&type=dash
 #https://aspaltvpasti.top/11111/17938.mpd
 
-#EXTINF:-1 group-title="VDIO SPORTS"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
+EXTINF:-1 group-title="VDIO SPORTS"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2603,7 +2603,7 @@ https://aspaltvpasti.top/Allinone/6686.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6686&type=dash
 #https://aspaltvpasti.top/11111/6686.mpd
 
-#EXTINF:-1 group-title="VDIO SPORTS"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2 B
+EXTINF:-1 group-title="VDIO SPORTS"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2615,7 +2615,7 @@ https://aspaltvpasti.top/Allinone/6686.mpd
 https://aspaltvpasti.top/Allinone/17939.mpd
 
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3
+EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2629,7 +2629,7 @@ https://aspaltvpasti.top/Allinone/19404.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
 #https://aspaltvpasti.top/11111/19404.mpd
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5
+EXTINF:-1 group-title="VDIO SPORTS;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2643,7 +2643,7 @@ https://aspaltvpasti.top/Allinone/9182.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
 #https://aspaltvpasti.top/11111/9182.mpd
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
+EXTINF:-1 group-title="VDIO SPORTS;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2757,7 +2757,7 @@ https://maling.pl/19542.mpd
 
 
 
-#EXTINF:-1 group-title="VDIO SPORTS;MMA/UFC" tvg-logo="httr5Mb.jpg", CTV FIGHT
+EXTINF:-1 group-title="VDIO SPORTS;MMA/UFC" tvg-logo="httr5Mb.jpg", CTV FIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
