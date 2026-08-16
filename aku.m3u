@@ -1399,7 +1399,7 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 #https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport1.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/FsfkM27D/20230719-171756.png" group-title="SPORTS;BOLA;LIGA ITALIA;LIGA CHAMPIONS",Prima Sport 2
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/FsfkM27D/20230719-171756.png" group-title="SPORTS;BOLA;LIGA ITALIA;LIGA SPANYOL;LIGA CHAMPIONS",Prima Sport 2
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
@@ -2339,10 +2339,6 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="SPORTS;BOLA;LIGA PERANCIS",Nova Sport 2
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/z6xNS8T/laligatv.png" group-title="SPORTS;LIGA SPANYOL" , LaLiga TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="1. INDONESIA;FILM",ROCK ACTION Vi
 #EXTVLCOPT:http-referrer=https://m.vidio.com
@@ -2434,10 +2430,6 @@ EXTINF:-1 tvg-id="Fancode3" tvg-name="Fancode 3" tvg-logo="" group-title="SPORTS
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL",Laliga hypermotion
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports1.sg" tvg-name="SG | Hub Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORTS", Hub Sports 1
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
