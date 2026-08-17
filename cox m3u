@@ -5,5 +5,4 @@
 #EXTVLCOPT:http-cookie=cshx=3bcdb206
 #EXTVLCOPT:http-referrer=https://20.detik.com/live/trans-7
 #EXTVLCOPT:http-origin=https://20.detik.com
-#EXTHTTP:{"Origin":"https://20.detik.com"}
 https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786920694969&wowzatokenhash=dmfM8aSS-dP3HzIIMYQ2Q5UOFCJ-xakkAAyv0sRx2FQ%3D
