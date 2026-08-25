@@ -11,8 +11,18 @@
 #KODIPROP:inputstream.adaptive.license_key=be13e795b7e14b4b8f309a0d97041967:cd422725a8764a6d9dfe7a950b5a8733
 https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VFJBTlM3LW15/manifest.mpd?signature=M2NkMGJiM2ViZjRjNjJkOTgwZDRjMTgxYzMxMWU0MTQ=&time=15243332702
 
+#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="1. INDONESIA", Trans 7 CBM
+#EXTHTTP:{"Cookie":"is_user_v3=Y; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJ3ZWJfYnJvd3NlciIsImVtYWlsIjoiUHVueUB0b2tlLmNvbSIsImV4cCI6MTc4NzE1MjA3OCwiaG90ZWxfaWQiOm51bGwsImhvdGVsX25hbWUiOm51bGwsImlzX2IyYiI6ZmFsc2UsImlzX2RldmljZV91bnBhaXJlZCI6ZmFsc2UsImlzX3R2IjpmYWxzZSwiaXNwX2lkIjoiNiIsImlzcF9uYW1lIjoiVHJhbnN2aXNpb24iLCJwYWNrYWdlX2xpc3QiOm51bGwsInBob25lIjoiIiwicm9sZV9pZCI6IjkiLCJ1c2VyX2lkIjo3ODUzOTl9.8vZEWX36fBUSgd8J0X-3yRqQspDit1vRIyjoZ1-vLe0; refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJ3ZWJfYnJvd3NlciIsImVtYWlsIjoiUHVueUB0b2tlLmNvbSIsImV4cCI6MTc4OTY1NzY3OCwiaG90ZWxfaWQiOm51bGwsImhvdGVsX25hbWUiOm51bGwsImlzX2IyYiI6ZmFsc2UsImlzX2RldmljZV91bnBhaXJlZCI6ZmFsc2UsImlzX3R2IjpmYWxzZSwiaXNwX2lkIjoiNiIsImlzcF9uYW1lIjoiVHJhbnN2aXNpb24iLCJqdGkiOiIzYmI4MTFkOS0zZTM1LTRhNjEtYjVlMS0xODQ2ZTM3YTgwODMiLCJwYWNrYWdlX2xpc3QiOm51bGwsInBob25lIjoiIiwicm9sZV9pZCI6IjkiLCJ1c2VyX2lkIjo3ODUzOTl9.7nFfDz9F8EDFV7mF60ptqfvHsm96TEC7tuzXSNER3R4; device_fp=U2FsdGVkX1+zFkliddqcD5UbfM+A+bfWe3zrgT+zV51lkm2sCc5p8V+Qtz7qGPmumcxsbohSDz7ZIP3FB2PaCNBiQFekp9QemMM7WJjbmG+w5dHJ85JPSoN5TwRdVx996D0FbJujTS51L2eeSMW9SPw26j\/hNVm\/8VYhuEKxhcwgNUw\/hzbw4gBtz\/WxWJ62OTkpa0jpiNwS4jVZF16SanUUgqYgw73qTCKMCxjxtlHsjls4ZyatLG7Lx9IJakv+CXbRtXYVSAfpflbgJKfGJ\/9flRrE5dUPTCzMiDhuj8h39oEQYtvjYTSRCAD9gwzpW33EtwqoYpOIBHQE4hcf5A==;","Referer":"https:\/\/www.cubmu.com\/","Origin":"https:\/\/www.cubmu.com","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be13e795b7e14b4b8f309a0d97041967:cd422725a8764a6d9dfe7a950b5a8733
+https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VHJhbnNUVg/manifest.mpd?signature=OTgzOTY2MWNjNDc0NDI5OTU3YmE4NDgyNjJiZTY2MmU=&time=15243333216
 
-#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 SV
+#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans TV CBM
 https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
 https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
