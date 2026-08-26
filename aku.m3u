@@ -50,6 +50,7 @@ https://vidsemar.pages.dev/terraluna/205.mpd
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-25.jpg" group-title="1. INDONESIA", Metro TV M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_sleng.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="TIMNAS",AFF (3) 2026
