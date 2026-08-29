@@ -458,7 +458,7 @@ EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj
 https://cdn08jtedge.indihometv.com/dassdvr/130/curiosity/manifest.mpd
 
 
-#EXTINF:-1 group-title="1. INDONESIA;SPORTS;LIGA BELANDA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
+#EXTINF:-1 group-title="1. INDONESIA;SPORTS;BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
 https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
 #https://jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
@@ -2211,7 +2211,7 @@ https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/thrill/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/thrill/thrill-avc1_1200000=4-3309216910000000.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="SPORTS;BOLA;LIGA ITALIA; BUNDESLIGA", BEIN SPORTS 1 ENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="SPORTS;BOLA;LIGA ITALIA;BUNDESLIGA", BEIN SPORTS 1 ENG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
