@@ -241,7 +241,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 
 
 
-#EXTINF:-1 tvg-id="Lokal" group-title="1. INDONESIA;BUNDESLIGA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEholD70mtLDL6wLTw9aksefL7JkdZPKp5BhyphenhyphenTlRrVszIpP45l27atFLYIeRxh6mS_EnqFphEPDf95VA1JZ3o7GQP5KFt6t_5y99rmf0C_M9SlBB0wvLWtcDH6rM5RHBmvzw0NQIY9LVIIZqcmQ3-yEqmypNOZQ94GkVXelXHi7UHi9bTbrGR9zLJYrcn0o/s720/teveMobile.png" ch-number="5",SindoNews V+
+#EXTINF:-1 tvg-id="Lokal" group-title="1. INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEholD70mtLDL6wLTw9aksefL7JkdZPKp5BhyphenhyphenTlRrVszIpP45l27atFLYIeRxh6mS_EnqFphEPDf95VA1JZ3o7GQP5KFt6t_5y99rmf0C_M9SlBB0wvLWtcDH6rM5RHBmvzw0NQIY9LVIIZqcmQ3-yEqmypNOZQ94GkVXelXHi7UHi9bTbrGR9zLJYrcn0o/s720/teveMobile.png" ch-number="5",SindoNews V+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -296,7 +296,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 
 
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="1. INDONESIA;BUNDESLIGA",SPORTSTARS 3
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="1. INDONESIA",SPORTSTARS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -593,7 +593,7 @@ https://aspaltvpasti.top/Allinone/18253.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
-EXTINF:-1 tvg-id="SportStars1.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="1. INDONESIA;BUNDESLIGA",SPORTSTARS B
+EXTINF:-1 tvg-id="SportStars1.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="1. INDONESIA",SPORTSTARS B
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 
 
@@ -601,10 +601,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="1. INDONESIA;BUNDESLIGA",SPORTSTARS 2 B
+EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="1. INDONESIA",SPORTSTARS 2 B
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="1. INDONESIA;BUNDESLIGA",SPORTSTARS 4 B
+#EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="1. INDONESIA",SPORTSTARS 4 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -612,7 +612,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
-#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/inews.png" group-title="1. INDONESIA;BUNDESLIGA",iNews V+
+#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/inews.png" group-title="1. INDONESIA",iNews V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -796,14 +796,14 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="1. INDONESIA;BOLA;BUNDESLIGA;AFC Champions League Two",SPORTSTARS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="1. INDONESIA;BOLA;AFC Champions League Two",SPORTSTARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=112&type=fitnah
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA;AFC Champions League Two", SPORTSTARS 2
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;AFC Champions League Two", SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1024,7 +1024,7 @@ https://adptv2.mediaflow.workers.dev/garudatv/s/s123/garudatvlivestreaming.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
 
-#EXTINF:-1 group-title="1. INDONESIA;BOLA;SPORTS;BUNDESLIGA" tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
+#EXTINF:-1 group-title="1. INDONESIA;BOLA;SPORTS" tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1404,14 +1404,14 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA;AFC Champions League Two;TIMNAS",Soccer Channel
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;AFC Champions League Two;TIMNAS",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=115.play
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA;FUTSAL NUSANTARA;AFC Champions League Two",Soccer Channel B
+EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;FUTSAL NUSANTARA;AFC Champions League Two",Soccer Channel B
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
 
@@ -1680,7 +1680,7 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1. INDONESIA;BUNDESLIGA;TIMNAS",INEWS (R+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1. INDONESIA;TIMNAS",INEWS (R+)
 http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://beetv.my.id/stream/rctiplus.m3u8?ch=inews
