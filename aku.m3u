@@ -38,6 +38,10 @@ https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 #EXTVLCOPT:http-referrer=https://mirror-2.kilat-live.com/
 https://rr4---sn-8pxuuxa-on.livecdngoogle.vip/LIVE_Sky_Sports_Main_Events/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="LIGA INGGRIS", PL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mirror-2.kilat-live.com/
+https://rr4---sn-8pxuuxa-on.livecdngoogle.vip/LIVE_IT_Sky_Sport_Calcio_HD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="LIGA INGGRIS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
