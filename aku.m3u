@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-name="Indosiar Digital" tvg-logo="https://i.imgur.cDO.png" group-title="TIMNAS",Indosiar Digital
 https://bigdickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", CANAL FOOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/cfoot.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/hub1.m3u8
