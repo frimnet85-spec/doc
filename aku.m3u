@@ -79,9 +79,10 @@ EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospit
 https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VHJhbnNUVg/manifest.mpd?signature=OTgzOTY2MWNjNDc0NDI5OTU3YmE4NDgyNjJiZTY2MmU=&time=15243432041
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 SV
-https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
-https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+https://transmedia-playlist.up.railway.app/live/trans7
+#https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
+#https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
+#https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 SV 2
 https://raw.githubusercontent.com/toptiviku/nonton/refs/heads/main/TRANS 7 HUB.m3u8
