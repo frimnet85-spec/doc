@@ -3,11 +3,18 @@
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/811941.png", PLAY SPORTS 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/811941.m3u8
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964157.png", SKY SPORT PREMIER LEAGUE
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1964157.m3u8
+
+
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/812023.png", PLAY SPORTS 1 HEVC
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/812023.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", NOW HK PREMIER SPORTS 1
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1032487.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/692416.png", SKY SPORT CALCIO IT
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/692416.m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS PL Y
