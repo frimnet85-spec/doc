@@ -20,19 +20,19 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/cfoot.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 1
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/hub1.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 2
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/hub2.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 3
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/hub3.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 4
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/mev.jpg" group-title="LIGA INGGRIS", HUB 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/hub4.m3u8
 
