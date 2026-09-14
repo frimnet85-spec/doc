@@ -1,5 +1,11 @@
 #EXTM3U billed-msg="JANGAN LUPA RELOAD/MUAT ULANG PEMBERI/PENYEDIA SETIAP MEMBUKA OTT, SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oL-TH_DJtEk/YJZOfY-8CII/AAAAAAAAErE/UHEbPo9W7dksYTuzV0qyjsCq1Ber6mz5wCLcBGAsYHQ/s720/TVNMOVIES-Poster.png" group-title="1. INDONESIA;FILM",Tvn Movies trv
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
+
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/811941.png", PLAY SPORTS 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/811941.m3u8
 
