@@ -105,7 +105,9 @@ EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospit
 https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VHJhbnNUVg/manifest.mpd?signature=OTgzOTY2MWNjNDc0NDI5OTU3YmE4NDgyNjJiZTY2MmU=&time=15243432041
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 SV
-https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie=_ga=GA1.1.2138177951.1789452092; __dtma=146380193.240265930.1789452092.1789452092.1789452092.1; __dtmc=146380193; cshx=3bcdb206; dtklucx=gen_0b78b3ce-0df8-9048-2044-12e88a76c538; HWWAFSESID=2dc088eac7468ca393; HWWAFSESTIME=1789452092868&Referer=https://20.detik.com&Origin=https://20.detik.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1743784423_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk0NTI5OTgwODAmd293emF0b2tlbmhhc2g9UlhpLXoyS05YNkhZYW9oY1c5WnczR0xCYTJWeGNCWTRqUVVRYXFJaXpBZz0=.m3u8
+#https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
 #https://transmedia-playlist.up.railway.app/live/trans7
 #https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 #https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
