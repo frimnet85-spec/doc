@@ -104,7 +104,7 @@ EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospit
 #KODIPROP:inputstream.adaptive.license_key=be13e795b7e14b4b8f309a0d97041967:cd422725a8764a6d9dfe7a950b5a8733
 https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VHJhbnNUVg/manifest.mpd?signature=OTgzOTY2MWNjNDc0NDI5OTU3YmE4NDgyNjJiZTY2MmU=&time=15243432041
 
-#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 SV
+#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7.
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie=_ga=GA1.1.2138177951.1789452092; __dtma=146380193.240265930.1789452092.1789452092.1789452092.1; __dtmc=146380193; cshx=3bcdb206; dtklucx=gen_0b78b3ce-0df8-9048-2044-12e88a76c538; HWWAFSESID=2dc088eac7468ca393; HWWAFSESTIME=1789452092868&Referer=https://20.detik.com&Origin=https://20.detik.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1743784423_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk0NTI5OTgwODAmd293emF0b2tlbmhhc2g9UlhpLXoyS05YNkhZYW9oY1c5WnczR0xCYTJWeGNCWTRqUVVRYXFJaXpBZz0=.m3u8
 #https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
@@ -319,7 +319,7 @@ https://tvratu.my.id/vid/index.mpd?id=21289&type=dash
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://tr28.frimaputrasandi8.workers.dev/cnn.m3u8
 
 
 EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
@@ -1147,7 +1147,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="1. INDONESIA",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://tr28.frimaputrasandi8.workers.dev/cnbc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png/revision/latest?cb=20210424000800" group-title="1. INDONESIA",INSPIRA TV
