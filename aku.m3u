@@ -112,6 +112,14 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="1. INDONESIA",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
+
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 SV 2
 https://raw.githubusercontent.com/toptiviku/nonton/refs/heads/main/TRANS 7 HUB.m3u8
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
@@ -308,11 +316,6 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21289&type=drm
 https://tvratu.my.id/vid/index.mpd?id=21289&type=dash
-
-#EXTINF:-1 group-title="1. INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tr28.frimaputrasandi8.workers.dev/cnn.m3u8
-
 
 EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
 #EXTVLCOPT:http-referrer=https://rctiplus.id/
@@ -1134,12 +1137,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="1. INDONESIA",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://tr28.frimaputrasandi8.workers.dev/cnbc.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png/revision/latest?cb=20210424000800" group-title="1. INDONESIA",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
