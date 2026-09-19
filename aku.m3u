@@ -122,8 +122,9 @@ https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 SV 2
-https://raw.githubusercontent.com/toptiviku/nonton/refs/heads/main/TRANS 7 HUB.m3u8
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7.m3u8
+https://raw.githubusercontent.com/toptiviku/nonton/refs/heads/main/TRANS 7 HUB.m3u8
+
 
 #EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https://al/metrotv.jpg" group-title="LIGA INGGRIS", PREMIER SPORTS 1 LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
