@@ -1,25 +1,27 @@
 #EXTM3U billed-msg="JANGAN LUPA RELOAD/MUAT ULANG PEMBERI/PENYEDIA SETIAP MEMBUKA OTT, SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", Arena Premium 3
+https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp3.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oL-TH_DJtEk/YJZOfY-8CII/AAAAAAAAErE/UHEbPo9W7dksYTuzV0qyjsCq1Ber6mz5wCLcBGAsYHQ/s720/TVNMOVIES-Poster.png" group-title="1. INDONESIA;FILM",Tvn Movies trv
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/811941.png", PLAY SPORTS 1 HD
+EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/811941.png", PLAY SPORTS 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/811941.m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964157.png", SKY SPORT PREMIER LEAGUE
+EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964157.png", SKY SPORT PREMIER LEAGUE
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1964157.m3u8
 
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/812023.png", PLAY SPORTS 1 HEVC
+EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://103.176.90.92/images/812023.png", PLAY SPORTS 1 HEVC
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/812023.m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", NOW HK PREMIER SPORTS 1
+EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", NOW HK PREMIER SPORTS 1
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1032487.m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/692416.png", SKY SPORT CALCIO IT
+EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/692416.png", SKY SPORT CALCIO IT
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/692416.m3u8
 
 EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", Indosiar CBM
@@ -29,46 +31,46 @@ EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA",
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SW5kb3NpYXI/manifest.mpd
 
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS PL Y
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS PL Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1432151.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS START Y
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS START Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1432154.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS 2 Y
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS 2 Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/534470.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS 4 Y
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", NOVA SPORTS 4 Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/534468.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", ASTRO PL 2
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", ASTRO PL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/918985.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", Play Sports 1
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", Play Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/931400.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", Sky Sport Mix
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", Sky Sport Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1964156.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/918984.m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/france/507712.png", CANAL+ PL HD
+EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/france/507712.png", CANAL+ PL HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/507712.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", CANAL FOOT
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", CANAL FOOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/cfoot.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", Oneplay 1
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="LIGA INGGRIS", Oneplay 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1982236.m3u8
 
