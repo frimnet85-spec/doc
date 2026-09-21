@@ -35,8 +35,13 @@ https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp2.m3u8
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", Arena Premium 3
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp3.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oL-TH_DJtEk/YJZOfY-8CII/AAAAAAAAErE/UHEbPo9W7dksYTuzV0qyjsCq1Ber6mz5wCLcBGAsYHQ/s720/TVNMOVIES-Poster.png" group-title="1. INDONESIA;FILM",Tvn Movies trv
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oL-TH_DJtEk/YJZOfY-8CII/AAAAAAAAErE/UHEbPo9W7dksYTuzV0qyjsCq1Ber6mz5wCLcBGAsYHQ/s720/TVNMOVIES-Poster.png" group-title="1. INDONESIA;FILM",Tvn Movies CBM
+#EXTVLCOPT:http-origin=https://www.cubmu.com/
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid02.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZOIE1vdmllcw/vx9-mdrmprt02/manifest.mpd?signature=MmIwYWZmMTRiZjRmZjYwMjBiYmU5NDJmYmJmZmQ2YzU=&time=15254132565
 
 
 
