@@ -307,7 +307,7 @@ https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/metro.m3u8
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/064/569064-LOGO-m.png" group-title="1. INDONESIA", SCTV V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=208
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=208&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
@@ -327,7 +327,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=5&type=drm&token=alf-store
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
@@ -345,11 +345,11 @@ https://tvku.family/Vis1/index.mpd?id=5
 #https://ayo.maling.pl/Vision/index.mpd?id=5
 ---
 
-EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="1. INDONESIA",TVONE V+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="1. INDONESIA",TVONE V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=12&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=12&type=drm&token=alf-store
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 ---
@@ -364,14 +364,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://mimipipi22.gitional/tvone.jpg" group-title="1. INDONESIA",KOMPAS TV V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=13
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=13&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 EXTINF:-1 tvg-id="Metro.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="1. INDONESIA",METRO TV V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=14
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=14&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
@@ -382,7 +382,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9999&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=9999&type=drm&token=alf-store
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 EXTINF:-1 group-title="VDIO SPORTS;Proliga"  tvg-logo="https://iry.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", Voli Proliga
@@ -484,9 +484,9 @@ EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://raw.githubuserconten
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3284600346800000.mpd
 
 
-EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="1. INDONESIA",TRANS TV V+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="1. INDONESIA",TRANS TV V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=6
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
@@ -696,9 +696,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
-EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/inews.png" group-title="1. INDONESIA",iNews V+
+#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/inews.png" group-title="1. INDONESIA",iNews V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=4
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
@@ -771,21 +771,21 @@ https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/amp
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlkVf8opmBsl3An-FC1dkN8LpgbEEPG5AIZzUkPTj6mih5ogV4MD84sS1RuA-oTft6TDH7iM0BPJYwxgT9_xdoQ1xO2ADkRD1UHam_55yjWfUxaGlQvhidM3o-NPriLcT6UBp1iGMC7V59PR7I3bB2XTU1hcEkRzev0_rQNGPSw2S60z-n6DTSb128mR_X/s700/TVN%20MOVIES.png" group-title="1. INDONESIA",TVN MOVIES V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=46
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=46&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-id="ONE.id"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR04GMEak960j_ky-9eEe_SSc8odqAnMnUUtkOpeY5tcXD5qGubedicyROl2HaDhVchM-sKAI78PylV1BdmLK1azh63LdG01VaFlPjdvAAcf9P7L10zoQCE9n2aqJ6eDN_UFvSBx-Rpeb-gufs1h18jW2UoT4CvlddyNa32BnnmR5iWmuIlNt3M5VE0RB/s700/ONE.png" group-title="1. INDONESIA;FILM",ONE V+
+EXTINF:-1 tvg-id="ONE.id"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR04GMEak960j_ky-9eEe_SSc8odqAnMnUUtkOpeY5tcXD5qGubedicyROl2HaDhVchM-sKAI78PylV1BdmLK1azh63LdG01VaFlPjdvAAcf9P7L10zoQCE9n2aqJ6eDN_UFvSBx-Rpeb-gufs1h18jW2UoT4CvlddyNa32BnnmR5iWmuIlNt3M5VE0RB/s700/ONE.png" group-title="1. INDONESIA;FILM",ONE V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=5&type=drm&token=alf-store
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=42
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=42&type=drm&token=alf-store
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXrwEUvG3G4NpQ1XCJdZcZTAciP6pkk1yq2GAs5mdf17RLyrV2jAywp1C1Aotj74KFy-2AU5jpqOmJ0ibzM_Y8sqKKdqK_ZRpFWJGaUWXL0iPI_gKZYJjX9eN0peqqxkHzg_dTQ5bdbUm7Q3rpIWPLpxX-5dWnmBl9QmUAZOwsQIrfPLSh1MkyZl9kzNC/s700/HITS%20MOVIES.png" group-title="1. INDONESIA;FILM",HITS MOVIES V+
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
@@ -794,7 +794,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="1. INDONESIA;ANAK-ANAK", Animax V+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=65
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=65&type=drm&token=alf-store
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
@@ -808,7 +808,7 @@ https://midcache.rctiplus.id/live/futsal.m3u8
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN Asia" tvg-logo="https://iili.io/JZIBmlf.png" group-title="1. INDONESIA;FILM", AXN V+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=79
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=79&type=drm&token=alf-store
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
@@ -888,12 +888,12 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm&token=alf-store
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;AFC Champions League Two", SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=113&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
@@ -1124,7 +1124,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV.
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=10&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
@@ -1488,7 +1488,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;AFC Champions League Two;TIMNAS",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=115&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
@@ -1574,39 +1574,39 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1
 BEIN SPORT
 //========================================================================
 
-EXTINF:-1 group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-id="beinSports1indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports Indonesia 1 
+#EXTINF:-1 group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-id="beinSports1indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports Indonesia 1 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=122&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-EXTINF:-1 group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-id="beinSports3indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports Indonesia 2
+#EXTINF:-1 group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-id="beinSports3indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports Indonesia 2
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=123&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-EXTINF:-1 group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-id="beinSports3indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports Indonesia 3 
+#EXTINF:-1 group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-id="beinSports3indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",beIN Sports Indonesia 3 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=124
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=124&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-EXTINF:-1 tvg-id="beINSports4.qa@MENA" group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png",beIN Sports 4
+#EXTINF:-1 tvg-id="beINSports4.qa@MENA" group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png",beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=125
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=125&type=drm&token=alf-store
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
-EXTINF:-1 tvg-id="beINSports5.qa@MENA" group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beIN Sports 5
+#EXTINF:-1 tvg-id="beINSports5.qa@MENA" group-title="SPORTS;BOLA;LIGA CHAMPIONS;LIGA SPANYOL" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=126
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=126&type=drm&token=alf-store
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 ---------------------------------------
@@ -1846,7 +1846,7 @@ v+----
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="1. INDONESIA",RCTI V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
@@ -1863,7 +1863,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="1. INDONESIA",MNCTV V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=2
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=2&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
@@ -1871,7 +1871,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWXLEjqZOOO2LT5C_1aBWyMBW7K3X8UaK2r3jmKvNbuXaWpei7VO_9LR1lfKqXhTIvYjciKBzFsa2ENtKRmI5snupnZUB4zdLh-mzhgQwwryclFl-OCE-auGTDPhjOog0Wv36dnGXU1WJTG3T9yT-ZcWj7ddXMMZTLilzzt8rrZd7zLmHd221buxvteyRU/s700/GTV.png" group-title="1. INDONESIA",GTV V+
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=3
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
@@ -1908,9 +1908,9 @@ https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="httpanytv.shop/LOGO/musiktv.jpg",Music TV V+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="" tvg-logo="httpanytv.shop/LOGO/musiktv.jpg",Music TV V+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=142&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=142&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
@@ -2092,7 +2092,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="1. INDONESIA",SPOTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=119&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
@@ -2100,7 +2100,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="1. INDONESIA;MotoGP",SPOTV 2 (V+)
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=120&type=drm&token=alf-store
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
