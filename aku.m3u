@@ -6,13 +6,10 @@
 #EXTINF:-1 tvg-logo="https://om/assets/logo_gtv_hd.png" group-title="SHOPEE CUP", (R+)
 https://midcache-nt.rctiplus.id/abvia/bola/720p/hls/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83dpg" group-title="LIVE;TIMNAS", INDONESIA VS THAILAND
+EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83dpg" group-title="LIVE;TIMNAS", INDONESIA VS THAILAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd/
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/indo.m3u8
-
-#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 Fil
-https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/tr7f.m3u8
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/loPORTS.png", Sky Sport 1
