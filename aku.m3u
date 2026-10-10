@@ -1,14 +1,14 @@
 
 #EXTM3U billed-msg="JANGAN LUPA RELOAD/MUAT ULANG PEMBERI/PENYEDIA SETIAP MEMBUKA OTT, SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:-1 group-title=1. INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV Max
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV Max
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_uakgnhip
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 https://maxstream.malingtv.workers.dev/stream/0_uakgnhip.mpd
 
-#EXTINF:-1 group-title=1. INDONESIA" tvg-logo="https://",TRANS 7 Max
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://",TRANS 7 Max
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_a7dno7wk
@@ -57,14 +57,14 @@ https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp2.m3u8
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", Arena Premium 3
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp3.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", SCTV CBM
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", SCTV CBM
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/U0NUVi1teQ/manifest.mpd?signature=MTkyYzRhN2YwYTQyN2JiZjNhYWQ3ZjQ0ZGE0NmU0N2M=&time=15262211570000
 
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", TVONE CBM
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", TVONE CBM
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
@@ -79,7 +79,7 @@ EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oL-TH_DJtEk/YJZOfY-8CII/AAAAAAAAE
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid02.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZOIE1vdmllcw/vx9-mdrmprt02/manifest.mpd?signature=MmIwYWZmMTRiZjRmZjYwMjBiYmU5NDJmYmJmZmQ2YzU=&time=15254132565555
 
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", Kompas TV CBM
+EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", Kompas TV CBM
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
@@ -91,14 +91,14 @@ EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA",
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd?signature=ZmZlNjA3NmQ2N2M1NTA4N2Y4MmFlMTBkNzAyOWE3NmE=&time=152541316200
 
-#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="1. INDONESIA", Trans TV CBM
+EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="1. INDONESIA", Trans TV CBM
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/VHJhbnNUVg/manifest.mpd?signature=YWE2ZDhkMjNkYTQzZTZiNzEyMmViYzcwNjQxYTA1N2I=&time=15262211152222
 
 
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="1. INDONESIA",Trans 7 CBM
+EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="1. INDONESIA",Trans 7 CBM
 #EXTVLCOPT:http-origin=https://www.cubmu.com/
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -114,7 +114,7 @@ EXTINF:-1 tvg-id="ANTV" tvg-url="https://raw.githubuserconech/project/refs/heads
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd?signature=ZTdkN2QxZGQxMjY2OGVhMmM0NjQwMWMzZDFjOGY5YTY=&time=152541320500
 
-#EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOvY5sPc7_Us3FcB3LmdTWWv4TqE9Yh73J0MY1j6X7DM6firo8g-qDUs&s=10",Bioskop Indonesia CBM
+EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOvY5sPc7_Us3FcB3LmdTWWv4TqE9Yh73J0MY1j6X7DM6firo8g-qDUs&s=10",Bioskop Indonesia CBM
 #EXTVLCOPT:http-origin=https://www.cubmu.com/
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -122,7 +122,7 @@ https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=MmUxMWQ5MTlmNWExY2E1M2IzZjkxYTcwM2MxOTYxNTA=&time=15262212236666
 
-#EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg", K+ CBM
+EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg", K+ CBM
 #EXTVLCOPT:http-origin=https://www.cubmu.com/
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -130,7 +130,7 @@ https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/d
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=NjlhMzIwZjg1ZWRkZjhhZDQyYzVmMjNiZmQ4OTAzZmI=&time=15262212403333
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/nr4HQFm/dunialain.png" group-title="1. INDONESIA", DUNIA LAIN CBM
+EXTINF:-1   tvg-logo="https://i.ibb.co.com/nr4HQFm/dunialain.png" group-title="1. INDONESIA", DUNIA LAIN CBM
 #EXTVLCOPT:http-origin=https://www.cubmu.com/
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
