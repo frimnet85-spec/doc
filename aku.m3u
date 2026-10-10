@@ -591,14 +591,6 @@ https://maxstream.malingtv.workers.dev/stream/0_mubcipck.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_e9m9jzif
 https://maxstream.malingtv.workers.dev/stream/0_e9m9jzif.mpd
 
-
-#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkese" tvg-logo="https://i.ibbclab.png",METRO TV Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_2jt2oz81
-https://maxstream.malingtv.workers.dev/stream/0_2jt2oz81.mpd
-
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkesehatan.id" tvg-logo="https://i.ibb.co.com/xjwBb7V/musiclab.png",IMTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
