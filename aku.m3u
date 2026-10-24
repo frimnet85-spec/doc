@@ -213,6 +213,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="1. INDONESIA", INDOSIAR Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 https://gateway.rrlaundry.my.id/stream/vid/primer/index.mpd?id=205&type=dash
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 https://baru.pw/proheho.mpd?id=205&type=dash
@@ -488,6 +489,7 @@ https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="1. INDONESIA",ANTV Vi
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=782
 https://gateway.rrlaundry.my.id/stream/vid/primer/index.mpd?id=782&type=dash
 https://calistaiptv.my.id/indopart/play.mpd?id=782&type=dash
 https://vidsemar.pages.dev/terraluna/782.mpd
@@ -770,11 +772,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTVLCOPT:http-referrer=android-app://com.vidio.android
 #EXTVLCOPT:http-user-agent=VidioPlayer/2608.2.7
 #EXTHTTP:{"User-Agent":"VidioPlayer/2608.2.7","Referer":"android-app://com.vidio.android"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gateway.rrlaundry.my.id/stream/vid/primer/stream_vidio.php?id=783&type=drm
-https://gateway.rrlaundry.my.id/stream/vid/primer/index.mpd?id=783&type=dash
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=783
 
 
 
@@ -803,6 +801,7 @@ https://maxstream.malingtv.workers.dev/stream/0_930nfsqj.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Supernesia.png" group-title="1. INDONESIA", SCTV Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 https://gateway.rrlaundry.my.id/stream/vid/primer/index.mpd?id=204&type=dash
 https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 https://baru.pw/proheho.mpd?id=204&type=dash
@@ -1271,6 +1270,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="1. INDONESIA", Metro TV HD
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=777
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=777
 
 ----
@@ -1550,6 +1550,7 @@ https://tvratu.my.id/vid/index.mpd?id=733&type=dash
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1. INDONESIA;TIMNAS;SHOPEE CUP",RCTI (R+)
+https://rplus.inisemar.my.id/rcti.m3u8
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -1559,6 +1560,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="1. INDONESIA;TIMNAS;SHOPEE CUP",GTV (R+)
+https://rplus.inisemar.my.id/gtv.m3u8
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://proxy.rctiplus.id/live/ipad/gtv-rstudio/gtv2023.m3u8
@@ -1568,6 +1570,7 @@ https://proxy.rctiplus.id/live/ipad/gtv-rstudio/gtv2023.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-log="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1. INDONESIA",MNCTV (R+)
+https://rplus.inisemar.my.id/mnctv.m3u8
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://proxy.rctiplus.id/live/ipad/mnctv-rstudio/mnctv2023.m3u8
@@ -1578,6 +1581,7 @@ https://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1. INDONESIA;TIMNAS",INEWS (R+)
+https://rplus.inisemar.my.id/inews.m3u8
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://proxy.rctiplus.id/live/ipad/inews-rstudio/inews2023.m3u8
 https://beetv.my.id/stream/rctiplus.m3u8?ch=inews
