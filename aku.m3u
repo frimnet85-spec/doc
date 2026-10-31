@@ -182,10 +182,12 @@ https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/d
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://bandeltv.xyz/2026/20detik/index.m3u8?id=trans7
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259.m3u8
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hodaf40d8225.jpg" group-title="1. INDONESIA", Trans TV.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://bandeltv.xyz/2026/20detik/index.m3u8?id=transtv
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
