@@ -66,6 +66,10 @@ EXTINF:-1 tvg-id="0_7gka297f" tvg-name="Crime Investigation" tvg-logo="https://i
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_7gka297f
 https://maxstream.malingtv.workers.dev/stream/0_7gka297f.mpd
 
+#EXTINF:-1 group-title="LIGA PERANCIS" tvg-logo="http://51.158.145.100/picons/loPORTS.png", Arena Sport 3
+https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/as3.m3u8
+
+
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/loPORTS.png", Sky Sport 1
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/sky1.m3u8
 
