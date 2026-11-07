@@ -90,10 +90,13 @@ https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/sky7.m3u8
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/loPORTS.png", Sky Sport 8
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/sky8.m3u8
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", Arena Premium 1
+https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp1.m3u8
+
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", Arena Premium 2
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp2.m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", Arena Premium 3
+#EXTINF:-1 group-title="LIGA INGGRIS;BUNDESLIGA" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", Arena Premium 3
 https://raw.githubusercontent.com/frimnet85-spec/doc/refs/heads/main/arp3.m3u8
 
 EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="https:pg" group-title="1. INDONESIA", SCTV CBM
