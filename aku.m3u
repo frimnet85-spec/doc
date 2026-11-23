@@ -21,12 +21,12 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux; Android 13) ExoPlayerLib/2.18.1
 https://tvratu.my.id/oxygen/index.m3u8?id=inews
 
-EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV Max
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV Max
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_uakgnhip
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_uakgnhip&type=drm
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-https://maxstream.malingtv.workers.dev/stream/0_uakgnhip.mpd
+https://tencent-css-live.byteplaycdn.com/vos/DASH/transtv/manifest.mpd?encp=ILbT_jPLBkg9VcOO8rOl1A&uid=&expp=1795430391
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://",TRANS 7 Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -34,12 +34,12 @@ https://maxstream.malingtv.workers.dev/stream/0_uakgnhip.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tencent-css-live.byteplaycdn.com/vos/DASH/trans7/manifest.mpd?enc=kcJB4NbXgWa655_LkomvIA&exp=1795410279&encp=DowiBw9du6PhhT5I5Jn4Tg&expp=1795420779
 
-EXTINF:-1 tvg-id="0_2jt2oz81" tvg-name="Metro TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2jt2oz81/banner_xxxhdpi.webp" group-title="1. INDONESIA",Metro TV Max
+#EXTINF:-1 tvg-id="0_2jt2oz81" tvg-name="Metro TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2jt2oz81/banner_xxxhdpi.webp" group-title="1. INDONESIA",Metro TV Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_2jt2oz81
-https://maxstream.malingtv.workers.dev/stream/0_2jt2oz81.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_2jt2oz81&type=drm
+https://tencent-css-live.byteplaycdn.com/vos/DASH/metrotv/manifest.mpd?encp=sDK8OnULd0dmMnwPfiDDiA&uid=&expp=1795430633
 
 EXTINF:-1 tvg-id="0_1u20u1ok" tvg-name="MAXSports" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/banner_xxxhdpi.webp" group-title="SPORTS;BUNDESLIGA",MAX Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1112,7 +1112,7 @@ EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://encrypted-tbn0.gstat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_urq0w0mp
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_urq0w0mp&type=drm
 https://maxstream.malingtv.workers.dev/stream/0_urq0w0mp.mpd
 
 #EXTINF:-1 group-title="BULU TANGKIS" tvg-logo="httr5Mb.jpg", Bulu Tangkis 1
@@ -1212,7 +1212,7 @@ EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_930nfsqj
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_930nfsqj&type=drm
 https://maxstream.malingtv.workers.dev/stream/0_930nfsqj.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Supernesia.png" group-title="1. INDONESIA", SCTV Vi
