@@ -28,12 +28,11 @@ EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TR
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 https://maxstream.malingtv.workers.dev/stream/0_uakgnhip.mpd
 
-EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://",TRANS 7 Max
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://",TRANS 7 Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_a7dno7wk
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-https://maxstream.malingtv.workers.dev/stream/0_a7dno7wk.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_uakgnhip&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+live.byteplaycdn.com/vos/DASH/trans7/manifest.mpd?enc=kcJB4NbXgWa655_LkomvIA&exp=1795410279&encp=DowiBw9du6PhhT5I5Jn4Tg&expp=1795420779
 
 EXTINF:-1 tvg-id="0_2jt2oz81" tvg-name="Metro TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2jt2oz81/banner_xxxhdpi.webp" group-title="1. INDONESIA",Metro TV Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
