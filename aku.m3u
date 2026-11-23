@@ -1925,7 +1925,8 @@ https://tvratu.my.id/vid/index.mpd?id=733&type=dash
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1. INDONESIA;TIMNAS;SHOPEE CUP",RCTI (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+https://rctiplus123.mikrofast.my.id/rctiplus/rcti/redirect.m3u8
+#https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
 ---
 https://rplus.inisemar.my.id/rcti.m3u8
@@ -1939,7 +1940,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="1. INDONESIA;TIMNAS;SHOPEE CUP",GTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+https://rctiplus123.mikrofast.my.id/rctiplus/gtv/redirect.m3u8
 
 
 ----
@@ -1955,7 +1956,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 #EXTINF:-1 tvg-log="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1. INDONESIA",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+https://rctiplus123.mikrofast.my.id/rctiplus/mnctv/redirect.m3u8
 
 ----
 https://rplus.inisemar.my.id/mnctv.m3u8
@@ -1971,7 +1972,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1. INDONESIA;TIMNAS",INEWS (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
 
 
 ----
