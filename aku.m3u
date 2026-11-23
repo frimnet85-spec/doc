@@ -2877,10 +2877,7 @@ https://nissa07.adptv.workers.dev/18796.mpd
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="1. INDONESIA;FILM",Celestial Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-
+https://dsgtq5sngxkde.cloudfront.net/celestialmovies/512.m3u8
 
 #EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="1. INDONESIA;FILM",Celestial Classic Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
