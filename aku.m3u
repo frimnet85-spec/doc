@@ -1208,12 +1208,12 @@ EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://static.com/images?q=tbn:A
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/kompas.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIA;LIGA BELANDA", KOMPAS TV Max
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIA;LIGA BELANDA", KOMPAS TV Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_930nfsqj&type=drm
-https://maxstream.malingtv.workers.dev/stream/0_930nfsqj.mpd
+https://cdn11jtedge.indihometv.com/atm/mpd-vo/KOMPAS_TV/manifest.mpd?encp=uuhm4bB87lXsGZamwprx1w&uid=&expp=1795430958
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Supernesia.png" group-title="1. INDONESIA", SCTV Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
