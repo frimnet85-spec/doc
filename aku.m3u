@@ -21,7 +21,7 @@ EXTINF:-1 group-title="1. INDONESIA;LIGA BELANDA", Inews Ox
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux; Android 13) ExoPlayerLib/2.18.1
 https://tvratu.my.id/oxygen/index.m3u8?id=inews
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV Max
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV Max
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_uakgnhip&type=drm
